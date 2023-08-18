@@ -11,5 +11,6 @@ This only deals with texts, use [UndertaleModTool](https://github.com/krzys-h/Un
 
 ## Notice
 Poorly written code, it works anyway.  
+Don't forget to change those file paths.  
 Translated strings longer than the original ones might be broken.  
 **Don't import trimmed strings directly**, most likely to break the game unless all translated strings are not longer than the original ones.  
