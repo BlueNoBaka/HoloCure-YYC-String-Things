@@ -6,8 +6,8 @@ This only deals with texts, use [UndertaleModTool](https://github.com/krzys-h/Un
 * `String_extract.py` - Extracts strings from `HoloCure.exe`.
 * `String_inject.py` - Imports modified strings into `HoloCure.exe`.
 * `String_patch.py` - Migrates translated strings to strings exported from new version.
-* `String_trim.py` - Throws away trash strings in extracted string file, good for translator's eyes. Use with `ExportVarNames.csx`and `String_patch.py`.
-* `ExportVarNames.csx` - Exports trash strings from data.win, run it with [UndertaleModTool](https://github.com/krzys-h/UndertaleModTool).
+* `String_trim.py` - Throws away trash strings in extracted string file, good for translator's eyes. Use with `ExportVarNames.csx` and `String_patch.py`.
+* `ExportVarNames.csx` - Exports trash strings from `data.win`, run it with [UndertaleModTool](https://github.com/krzys-h/UndertaleModTool).
 
 ## Notice
 Poorly written code, it works anyway.  
